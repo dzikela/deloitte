@@ -1,0 +1,10 @@
+INSERT INTO user (id, firstname, lastname, username, password, email, role ) VALUES (1, 'Adam', 'Smith', 'asmith', 'protest1@', 'asmith@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (2, 'Adrian', 'Dean', 'adean', 'protest2@', 'adean@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (3, 'Michelle', 'Jones', 'mjones', 'protest3@', 'mjones@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (4, 'James', 'Bond', 'jbond', 'protest4@', 'jbond@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (5, 'Robert', 'Allison', 'rallison', 'protest5@', 'rallison@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (6, 'John', 'Taylor', 'jtailor', 'protest6@', 'jtailor@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (7, 'Mary', 'Stones', 'mstones', 'protest7@', 'mstones@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (8, 'Patricia', 'Young', 'pyoung', 'protest8@', 'pyoung@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (9, 'Faith','Sterling', 'fsterling', 'protest9@', 'fsterling@gmail.com', 'ROLE_USER');
+INSERT INTO user (id, firstname, lastname, username, password, email, role) VALUES (10, 'Olivia', 'Brown', 'obrown', 'protest10@', 'obrown@gmail.com', 'ROLE_USER');

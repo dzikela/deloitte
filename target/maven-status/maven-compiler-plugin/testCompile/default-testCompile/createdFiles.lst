@@ -1,0 +1,3 @@
+com\deloitte\controller\UserTaskControllerTest.class
+com\deloitte\repository\UserTaskRepositoryTest.class
+com\deloitte\OnlineTodoListApplicationTests.class
